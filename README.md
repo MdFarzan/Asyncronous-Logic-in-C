@@ -28,5 +28,5 @@ License:
 Can be use anywhere without credit.
 
 Acknowledgments:
-Inspired by a number conversion app name CalcBin.
-Special thanks to my college friend Mr. Harish Kumar and Gurmit Singh which helps to build logic. 
+Inspired by a number conversion android app named CalcBin.
+Special thanks to my college friend Mr. Harish Kumar and Gurmit Singh which helped to build logic. 
