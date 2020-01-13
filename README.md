@@ -25,7 +25,7 @@ Author:
 Md Farzan
 
 License:
-Please read LICENSE.md file.
+Can be use anywhere without credit.
 
 Acknowledgments:
 Inspired by a number conversion app name CalcBin.
