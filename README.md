@@ -1,5 +1,6 @@
-# C/C++
-Asynchronous whole number to hex and octal converter:
+
+# Asynchronous whole number to hex and octal converter
+
 This program can converter whole numbers to hex and decimal asynchronously. Not really! but looks like asynchronous.
 
 Getting started:
